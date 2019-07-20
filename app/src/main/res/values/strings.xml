@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ALC4Phase1</string>
+    <string name="my_profile_picture">my profile picture</string>
+    <string name="text_name">Adeleye Olamide</string>
+    <string name="text_track">Track: Android</string>
+    <string name="text_country">Country: Nigeria</string>
+    <string name="text_email">Email: adeleyeolamide56@gmail.com</string>
+    <string name="text_phone_number">Phone Number: 08164154694</string>
+    <string name="text_slack">Slack Username: @Olamide A.</string>
+    <string name="welcome_to_alc_4_0">Welcome to ALC 4.0</string>
+    <string name="about_alc">ABOUT ALC</string>
+    <string name="my_profile">MY PROFILE</string>
+</resources>
